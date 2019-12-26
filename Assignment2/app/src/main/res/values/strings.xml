@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="crime_title_hint">Enter item name</string>
+    <string name="crime_title_label">Item Name</string>
+    <string name="crime_details_label">Item Description</string>
+    <string name="crime_solved_label">Add to cart</string>
+</resources>
